@@ -17,7 +17,7 @@ int main(void)
 		{
 			c = c + b;
 			b = c - b;
-			printf(", %ld", k);
+			printf(", %ld", c);
 		}
 		++a;
 	}
