@@ -6,11 +6,12 @@
 
 /**
  * main - prints if the number is positive, zero or negative
- * Return: Always 0.
+ * Return: Always (Success).
  *
  */
 
 int main(void)
+
 {
 	int n;
 	srand(time(0));
