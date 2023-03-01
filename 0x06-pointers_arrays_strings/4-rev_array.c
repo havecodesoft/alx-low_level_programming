@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * reverse_array - a function that reverses the content of an array of integers.
+ * reverse_array - a function that reverses the content
+ * of an array of integers.
  * @arr: the array
  * @num: the number of element of array
  * Return: nothing
