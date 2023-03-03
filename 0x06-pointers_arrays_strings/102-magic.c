@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - a function that returns void
+ * Return: Always 0.
+*/
+
 int main(void)
 {
   int n;
