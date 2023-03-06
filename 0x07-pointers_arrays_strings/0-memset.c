@@ -11,6 +11,7 @@
 char *_memset(char *str, char byte, unsigned int num)
 {
 	unsigned int i;
+
 	for (i = 0; i < num; i++)
 		str[i] = byte;
 	return (str);
